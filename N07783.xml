@@ -116,12 +116,13 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:009930_0000_0F7B3A6854056590"/>
-            <pb facs="tcp:009930_0001_0F7B3A66FB943A50" rendition="simple:additions"/>
+            <pb facs="unknown:009930_0000_0F7B3A6854056590"/>
+            <pb facs="unknown:009930_0001_0F7B3A66FB943A50"
+                rendition="simple:additions"/>
             <p>THE TIMES A POEM.</p>
          </div>
          <div type="letter">
-            <pb facs="tcp:009930_0002_0F7B3A68AE9337C0"/>
+            <pb facs="unknown:009930_0002_0F7B3A68AE9337C0"/>
             <head>To — —</head>
             <opener>
                <salute>SIR,</salute>
@@ -134,7 +135,8 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:009930_0003_0F7B3B7752881C30" rendition="simple:additions"/>
+            <pb facs="unknown:009930_0003_0F7B3B7752881C30"
+                rendition="simple:additions"/>
             <head>THE TIMES. A POEM.</head>
             <byline>By an AMERICAN.</byline>
             <q>
@@ -158,7 +160,7 @@
                <l>No pang resents for W— to exile driven,</l>
                <l>Exults that worth and <hi>Pratt</hi> are dear to heaven:</l>
                <l>
-                  <pb n="4" facs="tcp:009930_0004_0F7B3B7800B0D588"/>
+                  <pb n="4" facs="unknown:009930_0004_0F7B3B7800B0D588"/>
                   <hi>Young</hi> sure it is not, from whose honey'd lays</l>
                <l>Streams a rank surfeit of redundant praise;</l>
                <l>For guilt like his what genius shall atone?</l>
@@ -186,7 +188,7 @@
                <l>Smit with thy charms, my earliest joy I trace,</l>
                <l>Fondly enamour'd of thy angel face;</l>
                <l>
-                  <pb n="5" facs="tcp:009930_0005_0F7B3B7A26C9C770"/>Succeeding labours smother not the flame,</l>
+                  <pb n="5" facs="unknown:009930_0005_0F7B3B7A26C9C770"/>Succeeding labours smother not the flame,</l>
                <l>Still, still the dear attachment lives the same.</l>
             </lg>
             <lg>
@@ -213,7 +215,7 @@
                <l>Basely to truckle to a wretch in rule,</l>
                <l>Or spread a feast for Gods, to cram a fool;</l>
                <l>
-                  <pb n="6" facs="tcp:009930_0006_0F7B3B7AC14174F8"/>Not for a Monarch would I forge a lie,</l>
+                  <pb n="6" facs="unknown:009930_0006_0F7B3B7AC14174F8"/>Not for a Monarch would I forge a lie,</l>
                <l>To nestle in the sun-shine of his eye:</l>
                <l>The paths of error if in youth I trod,</l>
                <l>Dress'd a gay idol in the garb of God,</l>
@@ -240,7 +242,7 @@
                <l>The salient heart for G— forgets to bound,</l>
                <l>Dark disaffection sheds her gloom around;</l>
                <l>
-                  <pb n="7" facs="tcp:009930_0007_0F7B3B7B8AE5EEA8"/>Fair LIBERTY our soul's most darling prize,</l>
+                  <pb n="7" facs="unknown:009930_0007_0F7B3B7B8AE5EEA8"/>Fair LIBERTY our soul's most darling prize,</l>
                <l>A bleeding victim flits before our eyes:</l>
                <l>Was it for this our great forefathers rode,</l>
                <l>O'er a vast ocean to this bleak abode!</l>
@@ -265,7 +267,7 @@
                <l>If not, look forwards, look with deep despair,</l>
                <l>And dread the curses of your beggar'd heir:</l>
                <l>
-                  <pb n="8" facs="tcp:009930_0008_0F7B3B7BC2F09FE0"/>What bosom beats not, when such themes excite?</l>
+                  <pb n="8" facs="unknown:009930_0008_0F7B3B7BC2F09FE0"/>What bosom beats not, when such themes excite?</l>
                <l>Be men, be gods, be stubborn in the right.</l>
             </lg>
             <lg>
@@ -297,7 +299,7 @@
                </l>
                <l>Comes fraught with mischiefs, terrible to tell;</l>
                <l>
-                  <pb n="9" facs="tcp:009930_0009_0F7B3B7C819D5480"/>It dawns in fables—too officious ray!</l>
+                  <pb n="9" facs="unknown:009930_0009_0F7B3B7C819D5480"/>It dawns in fables—too officious ray!</l>
                <l>Yet, yet compassionately roll away;</l>
                <l>All, all is o'er, but anguish, slavery, fear,</l>
                <l>The chains already clanking in my ear;</l>
@@ -326,7 +328,7 @@
                   <hi>Juries</hi> are nusances, and <hi>Traffick</hi> worse,</l>
                <l>And to be blind, sagacity of course;</l>
                <l>
-                  <pb n="10" facs="tcp:009930_0010_0F7B3B7D41E47B58"/>The STAMP and LAND-TAX are as blessings meant,</l>
+                  <pb n="10" facs="unknown:009930_0010_0F7B3B7D41E47B58"/>The STAMP and LAND-TAX are as blessings meant,</l>
                <l>And opposition is our free consent;</l>
                <l>That where we are not, we most surely are,</l>
                <l>That wrong is right, black white, and foul is fair;</l>
@@ -352,7 +354,7 @@
                <l>Come out ye parricides! here take your stand,</l>
                <l>Your solemn condemnation is at hand;</l>
                <l>
-                  <pb n="11" facs="tcp:009930_0011_0F7B3B7E2DA64B68"/>Behold your crimes, and tremblingly await</l>
+                  <pb n="11" facs="unknown:009930_0011_0F7B3B7E2DA64B68"/>Behold your crimes, and tremblingly await</l>
                <l>The grumbling thunder of your country's hate;</l>
                <l>Accursed as ye are! how durst ye bring</l>
                <l>An injur'd people to distrust their K—?</l>
@@ -379,7 +381,7 @@
                <l>With anxious car we've drank your piteous tale,</l>
                <l>Where woes unnumber'd long and loud prevail;</l>
                <l>
-                  <pb n="12" facs="tcp:009930_0012_0F7B3B7EC22D3870"/>Here savage demons sporting with your pains<g ref="char:punc">▪</g>
+                  <pb n="12" facs="unknown:009930_0012_0F7B3B7EC22D3870"/>Here savage demons sporting with your pains<g ref="char:punc">▪</g>
                </l>
                <l>There boding mischief in a <hi>Stuart</hi> reigns;</l>
                <l>Mark the glad aera, when prevailing foes,</l>
@@ -405,7 +407,7 @@
                <l>Within that bosom is a nook so warm,</l>
                <l>That vice or virtue kindles to a storm?</l>
                <l>
-                  <pb n="13" facs="tcp:009930_0013_0F7B3B81648198A8"/>Could nature ever lure thee into sin?</l>
+                  <pb n="13" facs="unknown:009930_0013_0F7B3B81648198A8"/>Could nature ever lure thee into sin?</l>
                <l>Or bursts of passion thaw the frost within?</l>
                <l>Thou happy Cynick! still thy senses lull,</l>
                <l>Profoundly cautious, and supinely dull;</l>
@@ -433,7 +435,7 @@
                <l>Be eminent, thy little soul exert,</l>
                <l>And call forth all the rancour of thy heart:</l>
                <l>
-                  <pb n="14" facs="tcp:009930_0014_0F7B3B81F8836C28"/>But should the eye of merit on the lour,</l>
+                  <pb n="14" facs="unknown:009930_0014_0F7B3B81F8836C28"/>But should the eye of merit on the lour,</l>
                <l>(Tho' lowly crush'd beneath the wheel of power).</l>
                <l>Thou art my pity, monster! I forgive,</l>
                <l>And beg one only curse, that thou may'st live.</l>
@@ -462,7 +464,7 @@
             </lg>
             <lg>
                <l>
-                  <pb n="15" facs="tcp:009930_0015_0F7B3B82AB5AD0E0"/>Amid this wreck—from all aspersions clear,</l>
+                  <pb n="15" facs="unknown:009930_0015_0F7B3B82AB5AD0E0"/>Amid this wreck—from all aspersions clear,</l>
                <l>Nay blush not <hi>Peter,</hi> honest truths to hear;</l>
                <l>Base adulation never stain'd my lay,</l>
                <l>But modest merit must be brought to day;</l>
@@ -490,7 +492,7 @@
                <l>GEORGE! Parent! King! our Guardian, Glory, Pride,</l>
                <l>And thou fair REGENT! blooming by his side!</l>
                <l>
-                  <pb n="16" facs="tcp:009930_0016_0F7B3B836BB5F100"/>Thy offspring pleads a parent's fostering care,</l>
+                  <pb n="16" facs="unknown:009930_0016_0F7B3B836BB5F100"/>Thy offspring pleads a parent's fostering care,</l>
                <l>Reject not, frown not, but in mercy spare;</l>
                <l>Besprent with dust, the lowly suppliant lies,</l>
                <l>A helpless, guiltless, injured sacrifice:</l>
